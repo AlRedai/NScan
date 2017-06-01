@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/NScan.dir/main.c.o CMakeFiles/NScan.dir/header.c.o  -o NScan 

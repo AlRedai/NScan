@@ -1,0 +1,3 @@
+/home/dome/CLionProjects/NScan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dome/CLionProjects/NScan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dome/CLionProjects/NScan/cmake-build-debug/CMakeFiles/NScan.dir
